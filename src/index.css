@@ -29,3 +29,27 @@ code {
   text-align: center;
  
 }
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Addbutton{
+ margin: 10px;
+}
+
+.AddFormload {
+  margin: 30px;
+}
+
+.border {
+border: 1px solid grey;
+padding: 5px;
+margin-bottom: 5px;
+}
+
+.inputwidth {
+  width: 90%;
+}
